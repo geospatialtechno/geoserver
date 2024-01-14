@@ -18,7 +18,7 @@ categories:
 
 ----
 
-### GeoServer About & Status along with practical points
+### GeoServer About & Status along with practical guides
 In this session, we would like to talk around the "About & Status" section of GeoServer. If you want to access the complete tutorial, simply click on the [link](https://youtu.be/F-RlvlwwJgQ)
 
 [![](https://img.youtube.com/vi/F-RlvlwwJgQ/0.jpg)](https://www.youtube.com/watch?v=F-RlvlwwJgQ)
